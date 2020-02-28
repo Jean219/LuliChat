@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.nutz:nutz-plugins-cache:1.r.67-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/nutz/nutz-plugins-cache/1.r.67-SNAPSHOT/nutz-plugins-cache-1.r.67-20181228.030618-40.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/nutz/nutz-plugins-cache/1.r.67-SNAPSHOT/nutz-plugins-cache-1.r.67-20181228.030618-40-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/nutz/nutz-plugins-cache/1.r.67-SNAPSHOT/nutz-plugins-cache-1.r.67-20181228.030618-40-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
